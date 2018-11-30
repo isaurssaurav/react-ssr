@@ -1,5 +1,5 @@
 import React from "react";
 import { render } from "react-dom";
-import App from "../shared/App";
+import Post from "../shared/Post/Post";
 
-render(<App />, document.getElementById("Root"));
+render(<Post />, document.getElementById("root"));

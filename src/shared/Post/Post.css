@@ -1,4 +1,6 @@
-@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro|Open+Sans:300);.title {
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro|Open+Sans:300);
+
+.title {
   font-family: Open Sans, sans-serif;
   font-size: 55px;
   font-style: bold;
@@ -38,8 +40,7 @@ ul.blog-post li {
   font-size: 16px;
   font-size: 1rem;
   vertical-align: top;
-  -webkit-box-shadow: 0 0 6px #eee;
-          box-shadow: 0 0 6px #eee;
+  box-shadow: 0 0 6px #eee;
   box-sizing: border-box;
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -112,5 +113,3 @@ footer {
   font-family: Open Sans, sans-serif;
   text-align: center;
 }
-
-/*# sourceMappingURL=main.css.map*/
